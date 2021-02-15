@@ -1,0 +1,17 @@
+# JS files
+*.js text eol=lf
+*.json text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+
+
+# Markdown files
+*.md text eol=lf
+
+# Dotfiles
+Staticfile text eol=lf
+*.git* text eol=lf
+.* text eol=lf
+.editorconfig text eol=lf
+.env* text eol=lf
+
