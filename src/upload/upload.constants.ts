@@ -14,7 +14,7 @@ export const ALLOWED_FILE_TYPES = [
   {
     mimeTypes: ['image/jpeg'],
     magicNumbers: ['image/jpeg'],
-    fileExtensions: ['.jpg', 'jpeg'],
+    fileExtensions: ['.jpg', '.jpeg'],
   },
   {
     mimeTypes: ['image/png'],
